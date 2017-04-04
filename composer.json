@@ -1,0 +1,12 @@
+{
+    "name": "elmaks/geo",
+    "authors": [
+        {
+            "name": "Maksim Gusser",
+            "email": "elmaks86@gmail.com"
+        }
+    ],
+    "require": {
+        "yandex/geo": "^1.1"
+    }
+}
